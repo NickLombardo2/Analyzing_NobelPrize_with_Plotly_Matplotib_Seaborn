@@ -1,1 +1,1 @@
-# Analysing_NobelPrize_with_Plotly_Matplotib_Seaborn
+# Analyzing_NobelPrize_with_Plotly_Matplotib_Seaborn
